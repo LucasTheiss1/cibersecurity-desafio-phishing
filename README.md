@@ -1,4 +1,4 @@
-# Phishing for Capturing Facebook Passwords
+# Phishing for Capturing Passwords
 
 ### Tools Required
 
@@ -50,6 +50,6 @@ http://www.mirtesnet.com.br
 ```
 ## Results
 
-![Fishing Result](fishing.jpeg)
+![Phishing Result](phishing.jpeg)
 
 Once configured, the tool will capture credentials entered by users attempting to log in via the cloned Facebook page.
