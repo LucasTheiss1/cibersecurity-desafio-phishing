@@ -50,6 +50,6 @@ http://www.mirtesnet.com.br
 ```
 ## Results
 
-![Alt text] (fishing.jpeg)
+![Fishing Result](fishing.jpeg)
 
 Once configured, the tool will capture credentials entered by users attempting to log in via the cloned Facebook page.
