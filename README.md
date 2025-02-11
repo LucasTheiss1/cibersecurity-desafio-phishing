@@ -52,4 +52,4 @@ http://www.mirtesnet.com.br
 
 ![Phishing Result](phishing.jpeg)
 
-Once configured, the tool will capture credentials entered by users attempting to log in via the cloned Facebook page.
+Once configured, the tool will capture credentials entered by users attempting to log in via the cloned page.
